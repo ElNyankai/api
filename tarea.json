@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Fortnite",
+        "categoria": "Battle Royal",
+        "descripcion": "Este juego permite hasta 100 personas juntas en una partida",
+        "fecha": "21-julio-2027"
+    },
+    {
+        "id": 2,
+        "nombre": "Fall Guys",
+        "categoria": "Videojuego de plataformas",
+        "descripcion": "Es un juego de plataformas gratuito",
+        "fecha": "4-agosto-2020"
+    },
+    {
+        "id": 3,
+        "nombre": "Dauntless",
+        "categoria": "Videojuego de rol multijugador masivo en linea",
+        "descripcion": "Es un RPG de accionen linea gratuito",
+        "fecha": "21-mayo-2019"
+    }
+]
